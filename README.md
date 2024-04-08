@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Image](https://www.codewars.com/users/Alex1705dav/badges/large)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex1705dav&hide_progress=true)
 
 <!--
